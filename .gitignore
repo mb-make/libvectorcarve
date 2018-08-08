@@ -1,0 +1,15 @@
+
+# Vectric VCarve files
+*.crv
+*.CRV
+
+# Compiler generated
+*.o
+*.out
+*.a
+*.so
+*.lo
+*.bin
+*.elf
+
+
