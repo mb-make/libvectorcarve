@@ -1,4 +1,10 @@
 
+# Eclipse files
+.project
+.cproject
+.metadata
+.settings
+
 # Vectric VCarve files
 *.crv
 *.CRV
